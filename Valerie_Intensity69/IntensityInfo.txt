@@ -1,0 +1,12 @@
+Step10_Valerie was 67.2   & adjusted by 1.76 to get 69.0 	
+Step11_Valerie was 67.4   & adjusted by 1.63 to get 69.0 	
+Step1_Valerie was 65.3   & adjusted by 3.66 to get 69.0 	
+Step2_Valerie was 65.6   & adjusted by 3.39 to get 69.0 	
+Step3_Valerie was 65.9   & adjusted by 3.10 to get 69.0 	
+Step4_Valerie was 66.1   & adjusted by 2.92 to get 69.0 	
+Step5_Valerie was 66.3   & adjusted by 2.71 to get 69.0 	
+Step6_valerie was 66.7   & adjusted by 2.32 to get 69.0 	
+Step7_Valerie was 66.9   & adjusted by 2.10 to get 69.0 	
+Step8_Valerie was 66.9   & adjusted by 2.08 to get 69.0 	
+Step9_Valerie was 67.1   & adjusted by 1.94 to get 69.0 	
+valerie1_Original was 67.3   & adjusted by 1.66 to get 69.0 	
